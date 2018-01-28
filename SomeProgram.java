@@ -5,8 +5,11 @@ public class SomeProgram {
 	System.out.println("We will be Git experts, soon.");
 	System.out.println("We will be Git experts, soon.");
     }
+	
+public static void managerockets(){
 
-	public static void managerockets{
-//body
+public void manageTheSatellite() {
+    // TODO implement
 }
+
 }
